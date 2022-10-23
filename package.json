@@ -1,0 +1,9 @@
+{
+  "name": "MERN_backend",
+  "version": "0.0.1",
+  "description": "api para MERN",
+  "main": "index.js",
+  "repository": "https://github.com/tinlui/MERN_backend.git",
+  "author": "Luis Robledo",
+  "license": "MIT"
+}
