@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/tinlui/MERN_backend.git",
   "author": "Luis Robledo",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^6.6.7"
+  }
 }
